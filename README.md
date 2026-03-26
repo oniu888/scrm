@@ -146,4 +146,4 @@ WhatsApp 多账号管理、Telegram 多账号管理、Line 多账号管理、Zal
 
 如有问题或需要帮助，欢迎通过以下方式联系：
 
-- **Telegram**: [@JackSengs](https://t.me/oniu888)
+- **Telegram**: [@oniu888](https://t.me/oniu888)
